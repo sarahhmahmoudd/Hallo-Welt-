@@ -1,8 +1,5 @@
 hello world
 print("hello");
 bye world
-<<<<<<< HEAD
 Test3
-=======
 Test2
->>>>>>> da0e82d84248ab05ea4dc299d84a62906d2ba195
